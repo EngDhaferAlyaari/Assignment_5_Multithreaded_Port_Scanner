@@ -1,0 +1,13 @@
+Example from an actual local test (127.0.0.1, a temporary test server):
+
+Target IP: 127.0.0.1
+Ports: 34426-34428
+Threads: 3
+--------------------------------------------
+[OPEN] Port 34427
+--------------------------------------------
+Open ports: 1
+Not open / unreachable: 2
+Elapsed time: 0.00 seconds
+
+Port numbers and elapsed time will differ on other computers.
